@@ -1,0 +1,8 @@
+React Frontend- npm start-to run
+Flask Backend- jupyter notebook(cmd)-to run 
+submit form input-after giving the from input you will see the input
+
+Note:
+before running the frontend install node modules
+And if required install necessary python libraries if you see any module error in ipynb file while running the kernel
+- pip install [package_name]
